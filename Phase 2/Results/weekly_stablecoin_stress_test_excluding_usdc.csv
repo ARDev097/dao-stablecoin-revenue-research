@@ -1,0 +1,5 @@
+Scenario,Stablecoin Fees,Total Fees,Weekly Loss,% Decline,Annualized Loss
+Baseline,"$13,538","$126,695",-,-,-
+Mild (-20%),"$10,831","$123,987","$2,708",2.1%,"$140,816"
+Moderate (-40%),"$8,123","$121,280","$5,415",4.3%,"$281,580"
+Severe (-60%),"$5,415","$118,572","$8,123",6.4%,"$422,396"
